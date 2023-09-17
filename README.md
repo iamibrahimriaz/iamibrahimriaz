@@ -1,5 +1,5 @@
 
-- 👀 Focused in Javascript, Reactjs.
+- 👀 Focused in Javascript, Reactjs, NextJS.
 -  
 - 📫 Contact Me: 
 -  [Gmail](iamibrahim.riaz@gmail.com) 
