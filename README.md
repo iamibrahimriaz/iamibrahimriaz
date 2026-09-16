@@ -192,7 +192,7 @@ I also research, design, develop, publish, market, and maintain my own software 
 
 I have published **7 browser extensions**, built primarily with **JavaScript, React.js, TypeScript, HTML, CSS, and browser APIs**.
 
-## ⭐ [Hide Shorts, Reels, Stories & Sponsored](https://hide.waafaa.com/)
+## ⭐ [Hide Shorts, Reels, Stories & Sponsored](https://waafaa.com/extensions/hide/)
 
 **8K+ Active Installations · 80+ Ratings**
 
