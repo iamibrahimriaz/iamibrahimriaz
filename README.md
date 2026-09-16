@@ -224,7 +224,7 @@ A productivity-focused browser extension for reducing distracting and unwanted c
 - **[ImagePolish](https://waafaa.com/extension/imagepolish)** — Image metadata removal and privacy-focused image processing.
 - **[Formatly](https://waafaa.com/extension/formatly)** — Social media text formatting and productivity.
 - **[LeadProof](https://waafaa.com/extension/leadproof)** — Browser-based lead and prospecting productivity.
-- **[Profile Tags](https://waafaa.com/extension/progile-tags)** — Profile tagging and organization for social platforms.
+- **[Profile Tags](https://waafaa.com/extension/profile-tags)** — Profile tagging and organization for social platforms.
 - **[FileLens](https://waafaa.com/extension/filelens)** — Markdown and JSON viewing directly in the browser.
 
 > Each extension is independently researched, developed, published, maintained, and iterated based on real-world usage and feedback.
